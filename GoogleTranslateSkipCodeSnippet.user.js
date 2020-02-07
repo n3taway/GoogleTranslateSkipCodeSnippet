@@ -16,6 +16,7 @@
         '.gist',
         '.type-powershell',
         '.type-javascript',
+        '.type-css',
     ];
     nodeNames.forEach((name)=>{
        [...document.querySelectorAll(name)].forEach( node => {
