@@ -15,6 +15,7 @@
         'pre',//常规代码片段 例如github
         '.gist',
         '.type-powershell',
+        '.type-javascript',
     ];
     nodeNames.forEach((name)=>{
        [...document.querySelectorAll(name)].forEach( node => {
