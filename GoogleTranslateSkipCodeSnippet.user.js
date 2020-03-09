@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         谷歌翻译跳过代码片段
 // @namespace    http://tampermonkey.net/
-// @version      0.1.3
+// @version      0.1.4
 // @description  谷歌翻译 【翻译此页功能】跳过代码片段；GoogleTranslateSkipCodeSnippet
 // @author       n3taway
 // @match        *://*/*
