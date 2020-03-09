@@ -17,6 +17,7 @@
         '.type-powershell',
         '.type-javascript',
         '.type-css',
+        '.js-file-line',
     ];
     nodeNames.forEach((name)=>{
        [...document.querySelectorAll(name)].forEach( node => {
